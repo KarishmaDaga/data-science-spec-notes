@@ -19,7 +19,7 @@ Version Control: Github and Git
 
 ##### Some Important R Functions
 - Access help file ```?rnorm``` for a function
-- Search help files ```help.search("rnorm") for a function
+- Search help files ```help.search("rnorm")``` for a function
 - Get arguments ```args("rnorm")``` from a function
 - Can also type name of function 'rnorm' and get all of the code corresponding to that
 function
